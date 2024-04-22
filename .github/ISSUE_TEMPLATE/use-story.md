@@ -1,7 +1,7 @@
 ---
 name: Use Story
 about: First templates for use story
-title: ''
+title: first Uses story
 labels: ''
 assignees: ''
 
